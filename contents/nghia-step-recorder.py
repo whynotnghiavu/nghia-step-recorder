@@ -4,7 +4,7 @@ import tkinter as tk
 import datetime
 # pip install pyautogui
 import pyautogui
-# pip install pyautogui
+# pip install pynput
 from pynput.keyboard import Key, Listener as KeyboardListener
 from pynput.mouse import Listener as MouseListener
 
